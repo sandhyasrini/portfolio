@@ -33,7 +33,7 @@ class Body extends Component {
                 <div style={{left: this.state.left, top: this.state.top}} className="cursor-pointer"></div>
                 <div className="center">
                 <p className="title">Hello I am <span className="name">Sandhya Srinivasan</span>,</p>
-                <p className="title">{this.changeText()}</p>
+                <p className="title">a Full stack enthusiast!</p>
                 </div>
                 </section>
         )
